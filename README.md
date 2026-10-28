@@ -40,3 +40,7 @@ Desktop application for managing a student dormitory — student registration, r
 ---
 
 Developed as a university project together with a friend.
+
+## 📄 License
+
+View-only — all rights reserved. The code may be viewed on GitHub but not copied, used, modified or redistributed without written permission. See [LICENSE](LICENSE).
